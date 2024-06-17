@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "484615395564",
+    "project_id": "rawan-dv",
+    "storage_bucket": "rawan-dv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484615395564:android:31be8988b4c99d8793edc9",
+        "android_client_info": {
+          "package_name": "com.example.firebse_connection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484615395564-2ch4agk7nkjsl7nku8umfr07g56ftj4m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebse_connection",
+            "certificate_hash": "9bfbdbebddd56c427d22cb0f83bc0e58cf9507af"
+          }
+        },
+        {
+          "client_id": "484615395564-bj78mmlhroeo3401ibmnov03cae2u3uv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsCj49o22IZBkUsPK0n0B7EKltIKtZjf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484615395564-bj78mmlhroeo3401ibmnov03cae2u3uv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "484615395564-0rsgkk2vivmi1olrtml0ltoqj04rbe6s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebseConnection"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
